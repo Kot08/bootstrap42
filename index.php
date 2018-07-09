@@ -3,6 +3,7 @@
   include 'header.php';
 ?>
     <main role="main">
+      <h2 class="text-center">My Site</h2>
 
       <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
