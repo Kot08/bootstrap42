@@ -1,0 +1,91 @@
+.div1 {
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	border: 2px solid black;
+	margin:  0 auto;
+}
+.div2{
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	border: 2px solid black;
+	margin:  0 auto;
+}
+.div3 {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	border: 2px solid black;
+	margin:  0 auto;
+}
+
+.divshow {
+	width: 200px;
+	height: 200px;
+	background-color: orange;
+	border: 2px solid black;
+	margin:  0 auto;
+	display: none;
+}
+
+.divhide {
+    width: 200px;
+	height: 200px;
+	background-color: magenta;
+	border: 2px solid black;
+	margin:  0 auto;
+}
+
+.imgcircle {
+	border-radius: 50%;
+}
+
+.divtext{
+	border: 2px solid black;
+}
+
+.abzac{
+	font-size: 15px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.newabzac {
+	font-size: 25px;
+	font-weight: normal;
+	text-decoration: none;
+	line-height: 1.2em;
+}
+
+.anim {
+	 width: 200px;
+	height: 200px;
+	background-color: tomato;
+	border: 2px solid black;
+	margin:  0 auto;
+}
+
+#dialog {
+	display: none;
+}
+.highlight{
+	background-color: yellow;
+}
+ul.spisok1, ul.spisok2 {
+	list-style-type: none;
+}
+ul.spisok1 li, ul.spisok2 li {
+	background-color: grey;
+	color: white;
+	margin-top: 10px;
+	padding: 10px;
+}
+section{
+height: 300px;
+margin:60px; 
+}
+.section--purple{
+background-color: purple;
+
+}
